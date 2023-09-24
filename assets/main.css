@@ -42,7 +42,7 @@
 */
 
 html {
-  line-height: 1.5;
+  line-height: 1.65;
   /* 1 */
   -webkit-text-size-adjust: 100%;
   /* 2 */
@@ -917,8 +917,8 @@ body {
   --tw-prose-invert-pre-bg: rgb(0 0 0 / 50%);
   --tw-prose-invert-th-borders: #4b5563;
   --tw-prose-invert-td-borders: #374151;
-  font-size: 1rem;
-  line-height: 1.75;
+  font-size: 1.125rem;
+  line-height: 1.65;
 }
 
 .prose :where(video):not(:where([class~="not-prose"] *)) {
@@ -1630,7 +1630,7 @@ body {
 article {
   font-size: 1.125rem;
   line-height: 1.75rem;
-  line-height: 1.8;
+  line-height: 1.65;
   --tw-text-opacity: 1;
   color: rgb(0 0 0 / var(--tw-text-opacity));
 }
